@@ -72,7 +72,7 @@ public class NotaFragment extends Fragment {
             //    recyclerView.setLayoutManager(new LinearLayoutManager(context));
             //} else {
             //    //recyclerView.setLayoutManager(new GridLayoutManager(context, mColumnCount));
-//
+
             //    DisplayMetrics displayMetrics = context.getResources().getDisplayMetrics();
             //    float dpWidth = displayMetrics.widthPixels / displayMetrics.density;
             //    int numeroColumnas = (int) (dpWidth / 180);
